@@ -38,4 +38,4 @@ windows cmd 执行命令
     cd android && ./gradlew assembleRelease
 
     ./gradlew assembleDebug 编译并打Debug包
-    ./gradlew assembleRelease 编译并打Release的包
+    ./gradlew assembleRelease 编译并打Release的包    update
